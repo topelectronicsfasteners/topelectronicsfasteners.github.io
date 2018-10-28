@@ -13,73 +13,61 @@
 {% include common/masthead.html %}
 
 <!--content-->
-<section class="download text-left">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 mx-auto">
-				{{ page.content | markdownify }}
-			</div>
-		</div>
-	</div>
-</section>
-
 <section class="features" id="features">
 	<div class="container">
 		<div class="section-heading text-center">
-			<h2>Unlimited Features, Unlimited Fun</h2>
-			<p class="text-muted">Check out what you can do with this app theme!</p>
+			<h2>{{ page.title }}</h2>
+			<!--<p class="text-muted">Check out what you can do with this app theme!</p>-->
 			<hr>
 		</div>
 		<div class="row">
-			<div class="col-lg-4 my-auto">
-				<div class="device-container">
-					<div class="device-mockup iphone6_plus portrait white">
-						<div class="device">
-							<div class="screen">
-								<!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
-								<img src="img/demo-screen-1.jpg" class="img-fluid" alt="">
-							</div>
-							<div class="button">
-								<!-- You can hook the "home button" to some JavaScript events or just remove it -->
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-8 my-auto">
+			<div class="col-lg-8 offset-lg-2 my-auto">
 				<div class="container-fluid">
+
 					<div class="row">
 						<div class="col-lg-6">
 							<div class="feature-item">
-								<i class="icon-screen-smartphone text-primary"></i>
-								<h3>Device Mockups</h3>
-								<p class="text-muted">Ready to use HTML/CSS device mockups, no Photoshop required!</p>
+								<i class="fas fa-file-invoice-dollar text-primary"></i>
+								<h3>Bin Stocking</h3>
+								<p class="text-muted">
+									Easiest way to maintain inventory and ensure immediate availability of parts
+									<br/>
+									<br/>
+									Reduces costly in-house inventory handling time
+									<br/>
+									<br/>
+									All items are inspected and certified to your specifications
+								</p>
 							</div>
 						</div>
+
 						<div class="col-lg-6">
 							<div class="feature-item">
-								<i class="icon-camera text-primary"></i>
-								<h3>Flexible Use</h3>
-								<p class="text-muted">Put an image, video, animation, or anything else in the screen!</p>
+								<i class="fas fa-truck text-primary"></i>
+								<h3>Stock and Release / Blanket Orders</h3>
+								<p class="text-muted">Ensures your parts are available and delivered per your demand</p>
 							</div>
 						</div>
 					</div>
+
 					<div class="row">
 						<div class="col-lg-6">
 							<div class="feature-item">
-								<i class="icon-present text-primary"></i>
-								<h3>Free to Use</h3>
-								<p class="text-muted">As always, this theme is free to download and use for any purpose!</p>
+								<i class="far fa-clock text-primary"></i>
+								<h3>Just in Time</h3>
+								<p class="text-muted">We stock your high usage items to help provide JIT delivery</p>
 							</div>
 						</div>
+
 						<div class="col-lg-6">
 							<div class="feature-item">
-								<i class="icon-lock-open text-primary"></i>
-								<h3>Open Source</h3>
-								<p class="text-muted">Since this theme is MIT licensed, you can use it commercially!</p>
+								<i class="fas fa-file-invoice text-primary"></i>
+								<h3>Mill Orders</h3>
+								<p class="text-muted">Reduces your cost on high volume items that we can schedule for stock and release</p>
 							</div>
 						</div>
 					</div>
+
 				</div>
 			</div>
 		</div>
