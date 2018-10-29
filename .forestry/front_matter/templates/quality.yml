@@ -1,0 +1,8 @@
+---
+label: Quality
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  name: iso_certificate
+  label: ISO Certificate
