@@ -35,7 +35,7 @@ icon_with_notes:
 - template: icon-with-note
   title: Specials Made to Print
   description: Parts manufactured to customer drawings or samples. Expedited lead
-    times is available.
+    times are available.
   icon: fas fa-print
 
 ---
