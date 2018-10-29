@@ -29,7 +29,7 @@ icon_with_notes:
 - template: icon-with-note
   title: Custom Parts
   description: Screw Machine, CNC, Stamped, Cold Headed, Hot Headed, Forged, Molded,  Cast
-    per blueprint or sample
+    ...
   icon: fas fa-cogs
 
 ---
