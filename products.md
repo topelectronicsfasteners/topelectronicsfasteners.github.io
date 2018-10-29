@@ -25,7 +25,7 @@ icon_with_notes:
   description: Screw Machine, CNC Machine, Stamping, Cold Headed, Hot Headed, Self-Locking
   icon: fas fa-cogs
 - template: icon-with-note
-  title: Aerodynamics
+  title: Aerospace
   icon: fas fa-fighter-jet
 
 ---
