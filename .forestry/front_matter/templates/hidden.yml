@@ -3,3 +3,5 @@ label: Hidden
 hide_body: true
 is_partial: false
 fields: []
+pages:
+- 404.html
