@@ -6,3 +6,5 @@ fields:
 - type: file
   name: iso_certificate
   label: ISO Certificate
+pages:
+- quality.md
