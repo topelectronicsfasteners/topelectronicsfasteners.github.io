@@ -11,4 +11,4 @@ Serving the Telecommunications, Aerospace, Electronics and Industrial markets by
 
 We maintain fully inspected and lot controlled inventory that is RoHS and REACH compliant as applicable.
 
-Our value added services really set us apart from the competition. In addition to vendor managed inventory we also do custom kitting in-house as well as light assembly.
+Our value added services really set us apart from the competition. In addition to vendor managed inventory we also do light assembly and custom kitting in-house.
