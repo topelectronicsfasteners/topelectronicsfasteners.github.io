@@ -13,7 +13,8 @@ icon_with_notes:
 - template: icon-with-note
   title: Aerospace
   icon: fas fa-fighter-jet
-  description: Screws, Nuts, Bolts, Washers, Pins, Retaining Rings, Inserts and Rivets
+  description: Screws, Nuts, Bolts, Washers, Pins, Retaining Rings, Inserts, Panel
+    Hardware, Clamps, Fittings, Rivets ...
 - template: icon-with-note
   title: Electronic Hardware
   description: Spacers, Standoffs, Jack Screws, Precision Shoulder Screws, Captive
