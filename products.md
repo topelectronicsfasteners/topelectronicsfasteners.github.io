@@ -13,19 +13,21 @@ icon_with_notes:
 - template: icon-with-note
   title: Aerospace
   icon: fas fa-fighter-jet
+  description: Screws, Nuts, Bolts, Washers, Pins, Retaining Rings, Inserts, Rivets
+- template: icon-with-note
+  title: Electronic Hardware
+  description: Spacers, Standoffs, Jack Screws, Precision Shoulder Screws, Captive
+    Screws, Handles, Cable Ties, Clamps, Shrink Tubing, Crimp Terminals
+  icon: fas fa-bolt
 - template: icon-with-note
   title: Industrial
   description: Screws, Nuts, Bolts, Washers, Rivets, Self-Clinching Fasteners, Anchors,
     Threaded Rod
   icon: fas fa-wrench
 - template: icon-with-note
-  title: Electronic Hardware
-  description: Spacers, Standoffs, Jack Screws, Precision Shoulder Screws, Captive
-    Screws, Handles, Cable Ties, Clamps, Crimp Terminals
-  icon: fas fa-bolt
-- template: icon-with-note
   title: Custom Parts
-  description: Screw Machine, CNC Machine, Stamping, Cold Headed, Hot Headed, Self-Locking
+  description: Screw Machine, CNC Turned, Stamped, Cold Headed, Hot Headed, Forged,
+    Molded, Cast, Self-Locking
   icon: fas fa-cogs
 
 ---
