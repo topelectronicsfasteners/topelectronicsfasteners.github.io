@@ -9,6 +9,6 @@ Top Electronic Fasteners is a full service stocking distributor of standard, sem
 
 Serving the Telecommunications, Aerospace, Electronics and Industrial markets by providing quality products on time and competitively priced since 2003.
 
-We maintain fully inspected and lot controlled inventory that is RoHS and REACH compliant as applicable.
+We maintain fully inspected lot controlled inventory that is RoHS and REACH compliant as applicable.
 
 Our value added services really set us apart from the competition. In addition to vendor managed inventory we also do light assembly and custom kitting in-house.
