@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: index
+order: 1
 
 ---
 Top Electronic Fasteners is a full service stocking distributor of standard and custom fasteners and electronic hardware.  

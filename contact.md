@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 layout: contact
+order: 5
 
 ---
 Top Electronic Fasteners  

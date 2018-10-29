@@ -1,5 +1,6 @@
 ---
 layout: value
+order: 3
 title: Value Added
 permalink: "/value/"
 icon_with_notes:
