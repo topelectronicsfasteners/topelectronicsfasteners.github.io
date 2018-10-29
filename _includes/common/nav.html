@@ -19,7 +19,7 @@
 
 				{% assign sorted_pages = site.pages | sort:"order" %}
 				{% for site_page in sorted_pages %}
-					{% if site_page.title %}
+					{% if site_page.include_in_menu == true %}
 						<li class="nav-item">
 							<a class="nav-link {% if site_page.title == page.title %}active{% endif %}"
 							   href="{{ site_page.url }}">{{ site_page.title }}</a>

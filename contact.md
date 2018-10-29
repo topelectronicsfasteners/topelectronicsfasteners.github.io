@@ -3,6 +3,7 @@ title: Contact Us
 layout: contact
 permalink: "/contact/"
 order: 5
+include_in_menu: true
 
 ---
 Top Electronic Fasteners  

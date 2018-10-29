@@ -3,6 +3,7 @@ title: Products
 layout: products
 permalink: "/products/"
 order: 2
+include_in_menu: true
 icon_with_notes:
 - template: icon-with-note
   title: Telecommunications

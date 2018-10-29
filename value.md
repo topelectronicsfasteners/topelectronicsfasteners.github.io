@@ -1,6 +1,7 @@
 ---
 layout: value
 order: 3
+include_in_menu: true
 title: Value Added
 permalink: "/value/"
 icon_with_notes:
