@@ -23,8 +23,8 @@ icon_with_notes:
   icon: fas fa-bolt
 - template: icon-with-note
   title: Industrial
-  description: Metric and American Standard ASE Fasteners, Screws, Nuts, Bolts, Washers,
-    Rivets, Self-Clinching Fasteners, Anchors, Clamps, Threaded Rod ...
+  description: American Standard (ASE) and Metric Fasteners, Screws, Nuts, Bolts,
+    Washers, Rivets, Self-Clinching Fasteners, Anchors, Clamps, Threaded Rod ...
   icon: fas fa-wrench
 - template: icon-with-note
   title: Custom Parts
