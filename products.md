@@ -23,8 +23,8 @@ icon_with_notes:
   icon: fas fa-bolt
 - template: icon-with-note
   title: Industrial
-  description: Screws, Nuts, Bolts, Washers, Rivets, Self-Clinching Fasteners, Anchors
-    and Threaded Rod
+  description: Screws, Nuts, Bolts, Washers, Rivets, Self-Clinching Fasteners, Anchors,
+    Clamps, Threaded Rod ...
   icon: fas fa-wrench
 - template: icon-with-note
   title: Custom Parts
