@@ -21,7 +21,7 @@ icon_with_notes:
   icon: far fa-clock
 - template: icon-with-note
   title: Mill Orders
-  description: Reduces your cost on high volume items that we can schedule for stock
+  description: Reduce your cost on high volume items that we can schedule for stock
     and release
   icon: fas fa-file-invoice
 - template: icon-with-note
