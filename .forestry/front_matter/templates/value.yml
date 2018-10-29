@@ -1,0 +1,10 @@
+---
+label: Value
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  template_types:
+  - icon-with-note
+  label: Icon with notes
+  name: icon_with_notes
