@@ -17,7 +17,8 @@ icon_with_notes:
   description: Ensures your parts are available and delivered per your demand
 - template: icon-with-note
   title: Just in Time
-  description: We maintain stock on your high usage items to provide JIT delivery
+  description: We maintain stock on your high usage items to provide you with JIT
+    delivery
   icon: far fa-clock
 - template: icon-with-note
   title: Mill Orders
