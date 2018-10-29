@@ -26,8 +26,8 @@ icon_with_notes:
   icon: fas fa-wrench
 - template: icon-with-note
   title: Custom Parts
-  description: Screw Machine, CNC Turned, Stamped, Cold Headed, Hot Headed, Forged,
-    Molded and Cast
+  description: Screw Machine, CNC, Stamped, Cold Headed, Hot Headed, Forged, Molded
+    and Cast
   icon: fas fa-cogs
 
 ---
