@@ -24,5 +24,8 @@ icon_with_notes:
   title: Custom Parts
   description: Screw Machine, CNC Machine, Stamping, Cold Headed, Hot Headed, Self-Locking
   icon: fas fa-cogs
+- template: icon-with-note
+  title: Aerodynamics
+  icon: fas fa-fighter-jet
 
 ---
