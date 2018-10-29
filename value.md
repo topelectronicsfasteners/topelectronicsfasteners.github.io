@@ -14,7 +14,7 @@ icon_with_notes:
 - template: icon-with-note
   title: Stock and Release / Blanket Orders
   icon: fas fa-truck
-  description: Ensures your parts are available and delivered per your demand
+  description: Ensures your parts are always available and delivered per your demand
 - template: icon-with-note
   title: Just in Time
   description: We maintain stock on your high usage items to provide you with JIT
