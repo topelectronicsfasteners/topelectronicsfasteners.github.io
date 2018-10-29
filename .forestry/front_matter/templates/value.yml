@@ -3,6 +3,9 @@ label: Value / Products
 hide_body: true
 is_partial: false
 fields:
+- type: text
+  name: title
+  label: Title
 - type: blocks
   template_types:
   - icon-with-note
