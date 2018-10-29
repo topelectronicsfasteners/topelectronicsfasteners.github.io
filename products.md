@@ -11,6 +11,9 @@ icon_with_notes:
     Cage Nuts
   icon: fas fa-comments
 - template: icon-with-note
+  title: Aerospace
+  icon: fas fa-fighter-jet
+- template: icon-with-note
   title: Industrial
   description: Screws, Nuts, Bolts, Washers, Rivets, Self-Clinching Fasteners, Anchors,
     Threaded Rod
@@ -24,8 +27,5 @@ icon_with_notes:
   title: Custom Parts
   description: Screw Machine, CNC Machine, Stamping, Cold Headed, Hot Headed, Self-Locking
   icon: fas fa-cogs
-- template: icon-with-note
-  title: Aerospace
-  icon: fas fa-fighter-jet
 
 ---
