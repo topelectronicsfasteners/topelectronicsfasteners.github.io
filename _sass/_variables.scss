@@ -2,9 +2,13 @@
 
 // Gray and Brand Colors for use across theme
 
-$theme-primary:    #fdcc52;
-$theme-secondary:  #7b4397;
-$theme-tertiary:   #dc2430;
+// * color scheme *
+// 16. Xenomorph
+// https://medium.com/envato/49-color-schemes-for-2017-bd9660e4f39d
+
+$theme-primary:    #202020;
+$theme-secondary:  #2C3E50;
+$theme-tertiary:   #21C2F8;
 
 $gray-base:        #000;
 $gray-darker:      lighten($gray-base, 13.5%); // #222
