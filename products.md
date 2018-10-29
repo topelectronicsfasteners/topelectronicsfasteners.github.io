@@ -18,7 +18,8 @@ icon_with_notes:
 - template: icon-with-note
   title: Electronic Hardware
   description: Spacers, Standoffs, Jack Screws, Precision Shoulder Screws, Captive
-    Screws, Handles, Cable Ties, Clamps, Shrink Tubing and Crimp Terminals
+    Screws, Handles, Cable Ties, Clamps, Shrink Tubing, Crimp Terminals, PCB Hardware
+    ...
   icon: fas fa-bolt
 - template: icon-with-note
   title: Industrial
