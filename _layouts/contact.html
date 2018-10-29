@@ -13,10 +13,18 @@
 {% include common/masthead.html %}
 
 <!--content-->
-<section class="download text-left">
+<section class="text-left">
 	<div class="container">
-		<div class="row">
-			<div class="col-md-8 mx-auto">
+
+		<!--title-->
+		<div class="section-heading text-center mb-5">
+			<h2>{{ page.title }}</h2>
+			<!--<p class="text-muted">Check out what you can do with this app theme!</p>-->
+			<hr>
+		</div>
+
+		<div class="d-flex flex-row justify-content-center">
+			<div>
 				{{ page.content | markdownify }}
 			</div>
 		</div>
