@@ -13,118 +13,37 @@
 {% include common/masthead.html %}
 
 <!--content-->
-<section class="features" id="features">
+<section class="features">
 	<div class="container">
+
+		<!--title-->
 		<div class="section-heading text-center">
 			<h2>{{ page.title }}</h2>
 			<!--<p class="text-muted">Check out what you can do with this app theme!</p>-->
 			<hr>
 		</div>
-		<div class="row">
-			<div class="col-lg-8 offset-lg-2 my-auto">
-				<div class="container-fluid">
 
-					<div class="row">
-						<div class="col-lg-6">
-							<div class="feature-item">
-								<i class="fas fa-file-invoice-dollar text-primary"></i>
-								<h3>Bin Stocking</h3>
-								<p class="text-muted">
-									Easiest way to maintain inventory and ensure immediate availability of parts
-									<br/>
-									<br/>
-									Reduces costly in-house inventory handling time
-									<br/>
-									<br/>
-									All items are inspected and certified to your specifications
-								</p>
-							</div>
-						</div>
+		<!--icons / notes-->
+		<div class="container-fluid">
+			<div class="row">
 
-						<div class="col-lg-6">
-							<div class="feature-item">
-								<i class="fas fa-truck text-primary"></i>
-								<h3>Stock and Release / Blanket Orders</h3>
-								<p class="text-muted">Ensures your parts are available and delivered per your demand</p>
-							</div>
+				{% for note in page.icon_with_notes %}
+
+					<div class="col-lg-4 col-md-6">
+						<div class="feature-item">
+							<i class="{{ note.icon }} text-primary"></i>
+							<h3>{{ note.title }}</h3>
+							<div class="text-muted">{{ note.description | markdownify }}</div>
 						</div>
 					</div>
-
-					<div class="row">
-						<div class="col-lg-6">
-							<div class="feature-item">
-								<i class="far fa-clock text-primary"></i>
-								<h3>Just in Time</h3>
-								<p class="text-muted">We stock your high usage items to help provide JIT delivery</p>
-							</div>
-						</div>
-
-						<div class="col-lg-6">
-							<div class="feature-item">
-								<i class="fas fa-file-invoice text-primary"></i>
-								<h3>Mill Orders</h3>
-								<p class="text-muted">Reduces your cost on high volume items that we can schedule for stock and release</p>
-							</div>
-						</div>
-					</div>
-
-				</div>
+				{% endfor %}
 			</div>
 		</div>
 	</div>
 </section>
 
-<section class="cta">
-	<div class="cta-content">
-		<div class="container">
-			<h2>Stop waiting.<br>Start building.</h2>
-			<a href="#contact" class="btn btn-outline btn-xl js-scroll-trigger">Let's Get Started!</a>
-		</div>
-	</div>
-	<div class="overlay"></div>
-</section>
-
-<section class="contact bg-primary" id="contact">
-	<div class="container">
-		<h2>We
-			<i class="fas fa-heart"></i>
-			new friends!</h2>
-		<ul class="list-inline list-social">
-			<li class="list-inline-item social-twitter">
-				<a href="#">
-					<i class="fab fa-twitter"></i>
-				</a>
-			</li>
-			<li class="list-inline-item social-facebook">
-				<a href="#">
-					<i class="fab fa-facebook-f"></i>
-				</a>
-			</li>
-			<li class="list-inline-item social-google-plus">
-				<a href="#">
-					<i class="fab fa-google-plus-g"></i>
-				</a>
-			</li>
-		</ul>
-	</div>
-</section>
-
-<footer>
-	<div class="container">
-		<p>&copy; Your Website 2018. All Rights Reserved.</p>
-		<ul class="list-inline">
-			<li class="list-inline-item">
-				<a href="#">Privacy</a>
-			</li>
-			<li class="list-inline-item">
-				<a href="#">Terms</a>
-			</li>
-			<li class="list-inline-item">
-				<a href="#">FAQ</a>
-			</li>
-		</ul>
-	</div>
-</footer>
+<!--footer-->
+{% include common/footer.html %}
 
 <!--javascript-->
 {% include common/javascript.html %}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--head-->
+{% include common/head.html %}
+
+<body id="page-top">
+
+<!-- navigation -->
+{% include common/nav.html %}
+
+<!--masthead-->
+{% include common/masthead.html %}
+
+<!--content-->
+<section class="download text-left">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 mx-auto">
+				{{ page.content | markdownify }}
+			</div>
+		</div>
+	</div>
+</section>
+
+<!--footer-->
+{% include common/footer.html %}
+
+<!--javascript-->
+{% include common/javascript.html %}
+
+</body>
+</html>

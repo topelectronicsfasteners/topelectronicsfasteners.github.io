@@ -17,17 +17,12 @@
 		<div class="collapse navbar-collapse" id="navbarResponsive">
 			<ul class="navbar-nav ml-auto">
 
-				<li class="nav-item">
-					<a class="nav-link" href="#download">Download</a>
-				</li>
-
-				<li class="nav-item">
-					<a class="nav-link" href="#features">Features</a>
-				</li>
-
-				<li class="nav-item">
-					<a class="nav-link" href="#contact">Contact</a>
-				</li>
+				{% for site_page in site.pages %}
+					<li class="nav-item">
+						<a class="nav-link {% if site_page.title == page.title %}active{% endif %}"
+						   href="{{ site_page.url }}">{{ site_page.title }}</a>
+					</li>
+				{% endfor %}
 			</ul>
 		</div>
 
