@@ -8,3 +8,5 @@ fields:
   - icon-with-note
   label: Icon with notes
   name: icon_with_notes
+pages:
+- value.md
