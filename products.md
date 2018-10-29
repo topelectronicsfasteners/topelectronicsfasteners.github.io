@@ -7,8 +7,8 @@ include_in_menu: true
 icon_with_notes:
 - template: icon-with-note
   title: Telecommunication/Networking
-  description: Rack and Panel Hardware, Brackets, Screws, Nuts, Bolts, Washers, Cage
-    Nuts ...
+  description: Rack and Panel Hardware, Brackets, Screws, Nuts, Bolts, Washers, Grounding
+    Lugs, Cage Nuts ...
   icon: fas fa-comments
 - template: icon-with-note
   title: Aerospace
