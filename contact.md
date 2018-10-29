@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 layout: contact
+permalink: "/contact/"
 order: 5
 
 ---

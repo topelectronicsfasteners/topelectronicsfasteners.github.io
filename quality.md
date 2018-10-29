@@ -1,6 +1,7 @@
 ---
 title: Quality
 layout: quality
+permalink: "/quality/"
 order: 4
 iso_certificate: "/uploads/topelectronics_iso_cert.pdf"
 
