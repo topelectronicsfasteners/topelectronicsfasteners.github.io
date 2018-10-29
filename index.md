@@ -5,7 +5,7 @@ order: 1
 include_in_menu: true
 
 ---
-Top Electronic Fasteners is a full service stocking distributor of standard, semi-standard and custom fasteners as well as an almost unlimited assortment of electronic hardware and related components.
+Top Electronic Fasteners is a full service stocking distributor of standard, semi-standard and custom fasteners as well as a virtually unlimited assortment of electronic hardware and related components.
 
 Serving the Telecommunication, Aerospace, Electronic and Industrial markets by providing quality products on time and competitively priced since 2003.
 
