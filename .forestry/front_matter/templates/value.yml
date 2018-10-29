@@ -9,4 +9,5 @@ fields:
   label: Icon with notes
   name: icon_with_notes
 pages:
+- products.md
 - value.md
