@@ -9,12 +9,6 @@ fields:
   name: title
   config:
     required: true
-- type: text
-  name: icon
-  label: Icon
-  config:
-    required: true
-  description: font awesome css class
 - type: textarea
   name: description
   label: Description
@@ -25,3 +19,12 @@ fields:
 - type: file
   name: image
   label: Image
+- type: boolean
+  name: show_icon
+  label: Show Icon
+- type: text
+  name: icon
+  label: Icon
+  config:
+    required: false
+  description: font awesome css class
