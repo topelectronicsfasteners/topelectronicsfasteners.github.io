@@ -7,8 +7,8 @@ include_in_menu: true
 iso_certificate: "/uploads/ISO cert.pdf"
 images:
 - "/uploads/micrometer-1.jpg"
-- "/uploads/General-Inspection-thread-quality3dwcap.jpg"
 - "/uploads/caliper.jpg"
+- "/uploads/General-Inspection-thread-quality3dwcap.jpg"
 - "/uploads/optical comparator.jpg"
 
 ---
