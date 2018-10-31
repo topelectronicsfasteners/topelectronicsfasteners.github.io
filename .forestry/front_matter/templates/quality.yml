@@ -6,8 +6,8 @@ fields:
 - type: file
   name: iso_certificate
   label: ISO Certificate
-- type: file
-  name: image
-  label: Image
+- type: image_gallery
+  name: images
+  label: Images
 pages:
 - quality.md
