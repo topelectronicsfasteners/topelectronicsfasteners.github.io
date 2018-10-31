@@ -11,6 +11,7 @@ icon_with_notes:
   description: Screws, Nuts, Bolts, Washers, Pins, Retaining Rings, Inserts, Panel
     Hardware, Clamps, Fittings, Rivets ...
   image: "/uploads/aerospace.jpg"
+  show_icon: true
 - template: icon-with-note
   title: Industrial
   description: American Standard (ASE) and Metric Fasteners, Screws, Nuts, Bolts,
