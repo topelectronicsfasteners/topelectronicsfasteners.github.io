@@ -15,6 +15,7 @@ icon_with_notes:
   icon: fas fa-fighter-jet
   description: Screws, Nuts, Bolts, Washers, Pins, Retaining Rings, Inserts, Panel
     Hardware, Clamps, Fittings, Rivets ...
+  image: "/uploads/joshua-hoehne-643651-unsplash.jpg"
 - template: icon-with-note
   title: Electronic Hardware
   description: Spacers, Standoffs, Jack Screws, Precision Shoulder Screws, Captive
