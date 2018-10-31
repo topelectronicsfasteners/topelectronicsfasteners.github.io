@@ -32,7 +32,7 @@
 
 						{% for item in page.items %}
 
-							<div class="col-6">
+							<div class="col-md-6">
 								<div class="feature-item">
 									{% if item.show_icon == true %}
 										<i class="{{ item.icon }} text-primary"></i>
@@ -48,8 +48,12 @@
 				<!--images-->
 				<div class="d-none d-md-block col-md-4">
 
+					{% for image in page.images %}
 
-
+						<div class="row my-5">
+							<img class="w-100 value__image" src="{{ image }}">
+						</div>
+					{% endfor %}
 				</div>
 
 			</div>
