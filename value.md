@@ -8,7 +8,7 @@ items:
 - template: item
   title: Bin Stocking
   description: Easiest way to maintain inventory and ensure immediate availability
-    of parts. Reduces costly in-house inventory handling time.All items are inspected
+    of parts. Reduces costly in-house inventory handling. All items are inspected
     and certified to your specifications.
   icon: fas fa-file-invoice-dollar
 - template: item
