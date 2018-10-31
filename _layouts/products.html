@@ -23,28 +23,30 @@
 			<hr>
 		</div>
 
-		<!--icons / notes-->
+		<!--items-->
 		<div class="container-fluid">
 
-			{% for note in page.icon_with_notes %}
+			{% for item in page.items %}
 
-				<div class="row">
+				<div class="row mb-5">
 
-					<!--item / icon-->
+					<!--text-->
 					<div class="col-md-6 order-1">
 						<div class="feature-item">
-							<i class="{{ note.icon }} text-primary"></i>
-							<h3>{{ note.title }}</h3>
-							<div class="text-muted">{{ note.description | markdownify }}</div>
+							{% if item.show_icon == true %}
+								<i class="{{ item.icon }} text-primary"></i>
+							{% endif %}
+							<h3>{{ item.title }}</h3>
+							<div class="text-muted">{{ item.description | markdownify }}</div>
 						</div>
 					</div>
 
 					<!--image-->
 					<div class="d-none d-md-block col-md-6 {% cycle 'order-3', 'order-0' %}">
 
-						{% if note.image %}
+						{% if item.image %}
 							<div class="d-flex flex-column justify-content-center h-100">
-								<img class="notes-icon__image" src="{{ note.image }}">
+								<img class="notes-icon__image" src="{{ item.image }}">
 							</div>
 						{% endif %}
 					</div>
