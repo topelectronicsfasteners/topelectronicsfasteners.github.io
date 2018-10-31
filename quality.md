@@ -8,6 +8,7 @@ iso_certificate: "/uploads/ISO cert.pdf"
 images:
 - "/uploads/micrometer-1.jpg"
 - "/uploads/caliper.jpg"
+- "/uploads/TH-0000-on-Pin-TRAN--300x248.jpg"
 - "/uploads/General-Inspection-thread-quality3dwcap.jpg"
 - "/uploads/optical threads.jpg"
 
