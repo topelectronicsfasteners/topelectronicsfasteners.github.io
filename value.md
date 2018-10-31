@@ -14,16 +14,16 @@ items:
 - template: item
   title: Stock and Release  Blanket Orders
   icon: fas fa-truck
-  description: Ensures your parts are always available and delivered per your demand
+  description: Ensures your parts are always available and delivered per your demand.
 - template: item
   title: Just in Time
   description: We maintain stock on your high usage items to provide you with JIT
-    delivery
+    delivery.
   icon: far fa-clock
 - template: item
   title: Mill Orders
   description: Reduce your cost on high volume items that we can schedule for stock
-    and release
+    and release.
   icon: fas fa-file-invoice
 - template: item
   title: Product Traceability
