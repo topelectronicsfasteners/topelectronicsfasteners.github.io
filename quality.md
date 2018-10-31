@@ -9,7 +9,6 @@ images:
 - "/uploads/micrometer-1.jpg"
 - "/uploads/caliper.jpg"
 - "/uploads/General-Inspection-thread-quality3dwcap.jpg"
-- "/uploads/quality.jpg"
 - "/uploads/optical threads.jpg"
 
 ---
