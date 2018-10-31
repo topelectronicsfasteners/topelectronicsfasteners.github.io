@@ -38,5 +38,7 @@ items:
   description: Parts manufactured to customer drawings or samples. Expedited lead
     times are available.
   icon: fas fa-print
+images:
+- "/uploads/vmi 1.jpg"
 
 ---
