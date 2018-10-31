@@ -7,5 +7,4 @@ fields:
   name: title
   label: Title
 pages:
-- index.md
 - contact.md
