@@ -12,7 +12,7 @@ items:
     are inspected and certified to your specifications"
   icon: fas fa-file-invoice-dollar
 - template: item
-  title: Stock and Release / Blanket Orders
+  title: Stock and Release  Blanket Orders
   icon: fas fa-truck
   description: Ensures your parts are always available and delivered per your demand
 - template: item
