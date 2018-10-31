@@ -4,6 +4,7 @@ layout: index
 order: 1
 include_in_menu: true
 images:
+- "/uploads/electronc hard.jpg"
 - "/uploads/BOLT-AND-NUTS.jpg"
 
 ---
