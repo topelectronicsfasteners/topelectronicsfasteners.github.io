@@ -11,6 +11,9 @@ fields:
   - item
   label: Items
   name: items
+- type: image_gallery
+  name: images
+  label: Images
 pages:
 - products.md
 - value.md
