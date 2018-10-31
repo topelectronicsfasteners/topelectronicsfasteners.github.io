@@ -4,7 +4,7 @@ order: 3
 include_in_menu: true
 title: Value Added
 permalink: "/value/"
-icon_with_notes:
+items:
 - template: item
   title: Bin Stocking
   description: "Easiest way to maintain inventory and ensure immediate availability

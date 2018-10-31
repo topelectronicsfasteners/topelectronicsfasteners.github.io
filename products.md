@@ -4,7 +4,7 @@ layout: products
 permalink: "/products/"
 order: 2
 include_in_menu: true
-icon_with_notes:
+items:
 - template: item
   title: Aerospace
   icon: fas fa-fighter-jet
