@@ -7,9 +7,9 @@ permalink: "/value/"
 items:
 - template: item
   title: Bin Stocking
-  description: "Easiest way to maintain inventory and ensure immediate availability
-    of parts   \n  \nReduces costly in-house inventory handling time   \n  \nAll items
-    are inspected and certified to your specifications"
+  description: Easiest way to maintain inventory and ensure immediate availability
+    of parts. Reduces costly in-house inventory handling time.All items are inspected
+    and certified to your specifications.
   icon: fas fa-file-invoice-dollar
 - template: item
   title: Stock and Release  Blanket Orders
