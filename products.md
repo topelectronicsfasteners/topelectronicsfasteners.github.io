@@ -26,6 +26,7 @@ icon_with_notes:
   description: American Standard (ASE) and Metric Fasteners, Screws, Nuts, Bolts,
     Washers, Rivets, Self-Clinching Fasteners, Anchors, Clamps, Threaded Rod ...
   icon: fas fa-wrench
+  image: "/uploads/bolts and nuts.jpg"
 - template: icon-with-note
   title: Custom Parts
   description: Screw Machine, CNC, Stamped, Cast, Cold Headed, Hot Headed, Forged,
