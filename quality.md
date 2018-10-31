@@ -12,4 +12,4 @@ images:
 - "/uploads/General-Inspection-thread-quality3dwcap.jpg"
 
 ---
-In addition to full lot traceability Top Electronic Fasteners is an ISO 9001-2015 registered company.
+In addition to full lot traceability Top Electronic Fasteners is a certified ISO 9001-2015 company.
