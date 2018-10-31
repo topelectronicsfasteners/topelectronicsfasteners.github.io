@@ -22,6 +22,7 @@ icon_with_notes:
   description: Rack and Panel Hardware, Brackets, Screws, Nuts, Bolts, Washers, Grounding
     Lugs, Cage Nuts ...
   icon: fas fa-comments
+  image: "/uploads/grounding block.jpg"
 - template: icon-with-note
   title: Electronic Hardware
   description: Spacers, Standoffs, Jack Screws, Precision Shoulder Screws, Captive
