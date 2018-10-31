@@ -1,5 +1,5 @@
 ---
-label: Value
+label: Value / Products
 hide_body: true
 is_partial: false
 fields:
@@ -8,9 +8,9 @@ fields:
   label: Title
 - type: blocks
   template_types:
-  - item
-  label: Items
-  name: items
+  - icon-with-note
+  label: Icon with notes
+  name: icon_with_notes
 pages:
 - products.md
 - value.md
