@@ -6,11 +6,11 @@ order: 5
 include_in_menu: true
 
 ---
-Top Electronic Fasteners  
+#### Top Electronic Fasteners  
 5341 Derry Avenue Suite J  
 Agoura Hills, CA 91301
 
-Phone: 818-885-9185  
+#### Phone: 818-885-9185  
 Fax: 818-865-9188
 
-<a href="mailto:sales@topelectronics.net">sales@topelectronics.net</a>
+#### <a href="mailto:sales@topelectronics.net">sales@topelectronics.net</a>
