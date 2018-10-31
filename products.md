@@ -10,7 +10,7 @@ items:
   icon: fas fa-fighter-jet
   description: Screws, Nuts, Bolts, Washers, Pins, Retaining Rings, Inserts, Panel
     Hardware, Clamps, Fittings, Rivets ...
-  image: "/uploads/aerospace 1.jpg"
+  image: "/uploads/MAD_1530w_aerospace.jpg"
   show_icon: false
 - template: item
   title: Industrial
