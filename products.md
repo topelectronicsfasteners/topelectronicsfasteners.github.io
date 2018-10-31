@@ -35,5 +35,6 @@ icon_with_notes:
   description: Screw Machine, CNC, Stamped, Cast, Cold Headed, Hot Headed, Forged,
     Molded ...
   icon: fas fa-cogs
+  image: "/uploads/custom parts.jpg"
 
 ---
