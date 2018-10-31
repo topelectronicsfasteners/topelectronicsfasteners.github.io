@@ -39,6 +39,7 @@ items:
     times are available.
   icon: fas fa-print
 images:
+- "/uploads/vmi fasteners.jpg"
 - "/uploads/vmi.jpg"
 - "/uploads/vmi 1.jpg"
 
