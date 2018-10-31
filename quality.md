@@ -6,6 +6,9 @@ order: 4
 include_in_menu: true
 iso_certificate: "/uploads/ISO cert.pdf"
 images:
+- "/uploads/caliper.jpg"
+- "/uploads/optical comparator.jpg"
+- "/uploads/General-Inspection-thread-quality3dwcap.jpg"
 - "/uploads/micrometer-1.jpg"
 
 ---
