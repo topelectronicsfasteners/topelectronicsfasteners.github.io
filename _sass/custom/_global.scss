@@ -7,3 +7,23 @@
 .masthead-heading--font {
   @include masthead-font;
 }
+
+.img-aspect-ratio {
+
+  width: 100%;
+  position: absolute;
+  object-fit: cover;
+  object-position: center;
+
+  &.ratio-70 {
+    height: 70%;
+  }
+
+  &.ratio-80 {
+    height: 80%;
+  }
+
+  &.ratio-90 {
+    height: 90%;
+  }
+}

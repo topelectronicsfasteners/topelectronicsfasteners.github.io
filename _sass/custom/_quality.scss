@@ -1,3 +1,13 @@
 .embed-responsive-5by13::before {
   padding-top: 260%;
 }
+
+.quality__image {
+
+  height: 400px;
+
+  img {
+    height: 400px;
+    padding-right: 30px;
+  }
+}

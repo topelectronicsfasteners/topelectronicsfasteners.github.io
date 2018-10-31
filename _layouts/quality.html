@@ -26,18 +26,18 @@
 		<div class="d-flex flex-row justify-content-center">
 			<div class="col-lg-8 col-md-10">
 
+				<!--image-->
+				{% if page.image %}
+					<div class="d-none d-md-block quality__image mb-5">
+						<img class="img-aspect-ratio" src="{{ page.image }}">
+					</div>
+				{% endif %}
+
 				<!--embedded certificate-->
 				<div class="embed-responsive embed-responsive-5by13 bg-dark">
 					<embed src="{{ page.iso_certificate }}#toolbar=0&navpanes=0&scrollbar=0"
 					       class="embed-responsive-item"
 					       type="application/pdf">
-				</div>
-
-				<!--download button-->
-				<div class="mt-5 text-center">
-					<a href="{{ page.iso_certificate }}"
-					   class="btn btn-primary"
-					   download>Download</a>
 				</div>
 			</div>
 		</div>

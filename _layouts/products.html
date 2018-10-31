@@ -25,18 +25,31 @@
 
 		<!--icons / notes-->
 		<div class="container-fluid">
-			<div class="row">
 
-				{% for note in page.icon_with_notes %}
+			{% for note in page.icon_with_notes %}
 
-					<div class="col-lg-6 col-md-6">
+				<div class="row">
+
+					<!--item / icon-->
+					<div class="col-md-6 order-1">
 						<div class="feature-item">
 							<i class="{{ note.icon }} text-primary"></i>
 							<h3>{{ note.title }}</h3>
 							<div class="text-muted">{{ note.description | markdownify }}</div>
 						</div>
 					</div>
-				{% endfor %}
+
+					<!--image-->
+					<div class="d-none d-md-block col-md-6 {% cycle 'order-3', 'order-0' %}">
+
+						{% if note.image %}
+							<div class="d-flex flex-column justify-content-center h-100">
+								<img class="notes-icon__image" src="{{ note.image }}">
+							</div>
+						{% endif %}
+					</div>
+				</div>
+			{% endfor %}
 			</div>
 		</div>
 	</div>
