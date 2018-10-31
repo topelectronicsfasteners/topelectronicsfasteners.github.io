@@ -5,7 +5,6 @@ permalink: "/quality/"
 order: 4
 include_in_menu: true
 iso_certificate: "/uploads/Top Electronics_final cert.pdf"
-image: "/uploads/micrometer-1.jpg"
 images:
 - "/uploads/micrometer-1.jpg"
 
