@@ -35,7 +35,7 @@ items:
 - template: item
   title: Custom Parts
   description: Screw Machine, CNC, Stamped, Cast, Cold Headed, Hot Headed, Forged,
-    Molded ...
+    Injection Molded ...
   icon: fas fa-cogs
   image: "/uploads/custom parts.jpg"
 images: []
