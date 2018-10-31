@@ -15,4 +15,4 @@ Agoura Hills, CA 91301
 
 #### Fax: 818-865-9188
 
-#### <a href="mailto:sales@topelectronics.net">sales@topelectronics.net</a>
+#### **<a href="mailto:sales@topelectronics.net">sales@topelectronics.net</a>**
