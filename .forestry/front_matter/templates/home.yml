@@ -1,0 +1,11 @@
+---
+label: Home
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+- type: image_gallery
+  name: images
+  label: Images
