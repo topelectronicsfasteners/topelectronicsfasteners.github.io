@@ -15,7 +15,7 @@ items:
 - template: item
   title: Industrial
   description: American Standard (ASE) and Metric Fasteners, Screws, Nuts, Bolts,
-    Washers, Rivets, Self-Clinching Fasteners, O-Rings, Anchors, Clamps, Threaded
+    Washers, Self-Clinching Fasteners, Rivets, O-Rings, Anchors, Clamps, Threaded
     Rod ...
   icon: fas fa-wrench
   image: "/uploads/hardware.jpg"
