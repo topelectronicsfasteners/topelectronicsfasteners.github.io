@@ -11,3 +11,5 @@ fields:
   - item
   label: Items
   name: items
+pages:
+- products.md

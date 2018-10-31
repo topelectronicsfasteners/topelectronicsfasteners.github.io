@@ -37,5 +37,6 @@ items:
     Molded ...
   icon: fas fa-cogs
   image: "/uploads/custom parts.jpg"
+images: []
 
 ---
