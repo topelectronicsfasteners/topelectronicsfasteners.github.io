@@ -29,6 +29,7 @@ icon_with_notes:
     Screws, Handles, Cable Ties, Clamps, Shrink Tubing, Crimp Terminals, PCB Hardware
     ...
   icon: fas fa-bolt
+  image: "/uploads/elec hardware.png"
 - template: icon-with-note
   title: Custom Parts
   description: Screw Machine, CNC, Stamped, Cast, Cold Headed, Hot Headed, Forged,
