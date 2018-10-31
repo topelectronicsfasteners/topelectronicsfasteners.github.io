@@ -8,9 +8,9 @@ images:
 - "/uploads/BOLT-AND-NUTS.jpg"
 
 ---
-Top Electronic Fasteners is a full service stocking distributor of standard, semi-standard and custom fasteners as well as a virtually unlimited assortment of electronic hardware and related components.
+Top Electronic Fasteners is a full service stocking distributor of standard, semi-standard and custom fasteners as well as a nearly unlimited assortment of electronic hardware and related components.
 
-Serving the Telecommunication, Aerospace, Electronic and Industrial markets by providing quality products on time and competitively priced since 2003.
+Serving the Telecom, Aerospace, Electronic and Industrial markets by providing quality products on time and competitively priced since 2003.
 
 We maintain fully inspected lot controlled inventory that is RoHS and REACH compliant as applicable. Our quality system is certified to ISO 9001:2015.
 
