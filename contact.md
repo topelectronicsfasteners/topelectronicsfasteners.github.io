@@ -8,8 +8,9 @@ include_in_menu: true
 ---
 #### Top Electronic Fasteners
 
-#### 5341 Derry Avenue Suite J  
-Agoura Hills, CA 91301
+#### 5341 Derry Avenue Suite J
+
+#### Agoura Hills, CA 91301
 
 #### Phone: 818-885-9185
 
