@@ -28,8 +28,8 @@ items:
 - template: item
   title: Electronic Hardware
   description: Spacers, Standoffs, Jack Screws, Precision Shoulder Screws, Captive
-    Screws, Self Clinching Hardware, Handles, Cable Ties, Clamps, Shrink Tubing, Crimp
-    Terminals, PCB Hardware ...
+    Screws,  Handles, Ferrules, Cable Ties, Clamps, Shrink Tubing, Crimp Terminals,
+    PCB Hardware ...
   icon: fas fa-bolt
   image: "/uploads/elec hardware.png"
 - template: item
