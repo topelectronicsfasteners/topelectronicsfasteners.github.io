@@ -1,0 +1,13 @@
+---
+label: Products
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: blocks
+  template_types:
+  - item
+  label: Items
+  name: items
