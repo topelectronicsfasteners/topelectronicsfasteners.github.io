@@ -10,7 +10,7 @@ icon_with_notes:
   icon: fas fa-fighter-jet
   description: Screws, Nuts, Bolts, Washers, Pins, Retaining Rings, Inserts, Panel
     Hardware, Clamps, Fittings, Rivets ...
-  image: "/uploads/joshua-hoehne-643651-unsplash.jpg"
+  image: "/uploads/aerospace.jpg"
 - template: icon-with-note
   title: Industrial
   description: American Standard (ASE) and Metric Fasteners, Screws, Nuts, Bolts,
