@@ -10,7 +10,6 @@ images:
 - "/uploads/caliper.jpg"
 - "/uploads/TH-0000-on-Pin-TRAN--300x248.jpg"
 - "/uploads/General-Inspection-thread-quality3dwcap.jpg"
-- "/uploads/optical threads.jpg"
 
 ---
 In addition to full lot traceability Top Electronic Fasteners is an ISO 9001-2015 registered company.
