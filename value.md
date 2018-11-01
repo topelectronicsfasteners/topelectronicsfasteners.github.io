@@ -16,7 +16,7 @@ items:
 - template: item
   title: Just in Time
   description: We maintain stock on your high usage items to provide you with JIT
-    delivery.
+    delivery exactly when needed.
   icon: far fa-clock
 - template: item
   title: Bin Stocking
