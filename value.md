@@ -36,5 +36,6 @@ items:
 images:
 - "/uploads/bagger1.jpg"
 - "/uploads/vmi 1.jpg"
+- "/uploads/fastener-engineering-prototyping-large.jpg"
 
 ---
