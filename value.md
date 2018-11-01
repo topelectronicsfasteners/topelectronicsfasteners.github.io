@@ -8,7 +8,8 @@ items:
 - template: item
   title: Stock and Release  Blanket Orders
   icon: fas fa-truck
-  description: Ensures your parts are always available and delivered per your demand.
+  description: Ensures your parts are always available and delivered per your production
+    demand.
 - template: item
   title: Kitting, Assembly and Packaging
   description: Customized kitting, packaging, bar coding, labeling and sub-assembly
