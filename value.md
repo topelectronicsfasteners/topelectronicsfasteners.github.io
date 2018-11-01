@@ -11,7 +11,7 @@ items:
   description: Ensures your parts are always available and delivered per your demand.
 - template: item
   title: Kitting, Assembly and Custom Packaging
-  description: Customized kitting, packaging and sub-assembly to your specifications.
+  description: Customized kitting, packaging, labeling and sub-assembly to your specifications.
   icon: fas fa-box
 - template: item
   title: Just in Time
