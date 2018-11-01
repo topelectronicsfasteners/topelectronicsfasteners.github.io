@@ -35,7 +35,6 @@ items:
   icon: fas fa-print
 images:
 - "/uploads/bagger1.jpg"
-- "/uploads/bagger.jpg"
 - "/uploads/vmi 1.jpg"
 
 ---
