@@ -12,6 +12,10 @@ items:
     and certified to your specifications.
   icon: fas fa-file-invoice-dollar
 - template: item
+  title: Kitting, Assembly and Custom Packaging
+  description: Customized kitting, packaging and sub-assembly to your specifications.
+  icon: fas fa-box
+- template: item
   title: Stock and Release  Blanket Orders
   icon: fas fa-truck
   description: Ensures your parts are always available and delivered per your demand.
@@ -25,16 +29,12 @@ items:
   description: Complete traceability available through our electronic tracking system.
   icon: fas fa-map-marker-alt
 - template: item
-  title: Kitting, Assembly and Custom Packaging
-  description: Customized kitting, packaging and sub-assembly to your specifications.
-  icon: fas fa-box
-- template: item
   title: Specials Made to Print
   description: Parts manufactured to customer drawings or samples. Expedited lead
     times are available.
   icon: fas fa-print
 images:
-- "/uploads/vmi 1.jpg"
 - "/uploads/bagger.jpg"
+- "/uploads/vmi 1.jpg"
 
 ---
