@@ -34,7 +34,8 @@ items:
     times are available.
   icon: fas fa-print
 images:
-- "/uploads/vmi.jpg"
+- "/uploads/bagger.jpg"
 - "/uploads/vmi 1.jpg"
+- "/uploads/vmi.jpg"
 
 ---
