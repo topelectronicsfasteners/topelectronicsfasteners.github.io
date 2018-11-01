@@ -21,11 +21,6 @@ items:
     delivery.
   icon: far fa-clock
 - template: item
-  title: Mill Orders
-  description: Reduce your cost on high volume items that we can schedule for stock
-    and release.
-  icon: fas fa-file-invoice
-- template: item
   title: Product Traceability
   description: Complete traceability available through our electronic tracking system.
   icon: fas fa-map-marker-alt
