@@ -12,4 +12,4 @@ images:
 - "/uploads/General-Inspection-thread-quality3dwcap.jpg"
 
 ---
-### **In addition to maintaining fully inspected lot traceable inventory Top Electronic Fasteners is a certified ISO 9001-2015 company.**
+### **In addition to maintaining fully inspected lot traceable inventory       Top Electronic Fasteners is a certified ISO 9001-2015 company.**
