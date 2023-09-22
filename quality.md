@@ -4,7 +4,7 @@ layout: quality
 permalink: "/quality/"
 order: 4
 include_in_menu: true
-iso_certificate: "/uploads/ISO cert.pdf"
+iso_certificate: "/uploads/ISO Certification 2026.pdf"
 images:
 - "/uploads/micrometer-1.jpg"
 - "/uploads/caliper.jpg"
